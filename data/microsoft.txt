@@ -1,0 +1,648 @@
+<SEC-DOCUMENT>0001564590-18-019062.txt : 20180803
+<SEC-HEADER>0001564590-18-019062.hdr.sgml : 20180803
+<ACCEPTANCE-DATETIME>20180803110333
+ACCESSION NUMBER:		0001564590-18-019062
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		146
+CONFORMED PERIOD OF REPORT:	20180630
+FILED AS OF DATE:		20180803
+DATE AS OF CHANGE:		20180803
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37845
+		FILM NUMBER:		18990758
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+		BUSINESS PHONE:		425-882-8080
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MICROSOFT WAY
+		CITY:			REDMOND
+		STATE:			WA
+		ZIP:			98052-6399
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>msft-10k_20180630.htm
+<DESCRIPTION>10-K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+msft-10k_20180630.htm
+</title>
+</head>
+<!-- NG Converter v5.0.18157.137 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:0pt;border-top:Solid 1pt #000000;padding-top:0pt;line-height:1pt;margin-bottom:0pt;text-indent:0%;font-size:1pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:17pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:17pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">Washington, D.C. 20549 </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:38.75%;margin-right:38.58%;text-indent:0%;font-size:3pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:17pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">FORM 10-K </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:38.75%;margin-right:38.58%;text-indent:0%;font-size:3pt;">&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.73%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;font-weight:bold;font-size:11pt;font-family:MS Gothic;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:11pt;font-family:MS Gothic;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:11pt;"><font style="font-weight:normal;"></font>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;margin-left:4.73%;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">For the Fiscal Year Ended June 30, 2018 </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">OR </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:4.73%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;font-weight:bold;font-size:11pt;font-family:MS Gothic;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:11pt;font-family:MS Gothic;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;font-weight:bold;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:11pt;">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:3pt;text-align:justify;margin-left:4.73%;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">For the Transition Period From &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; to &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">Commission File Number 001-37845 </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:38.75%;margin-right:38.58%;text-indent:0%;font-size:3pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:23pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">MICROSOFT CORPORATION </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:38.75%;margin-right:38.58%;text-indent:0%;font-size:3pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0%;font-size:3pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:49%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">WASHINGTON</p></td>
+<td valign="top"  style="width:2%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:9pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">91-1144442</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;9A.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_9A_CONTROLS_PROCEDURES"><font style="text-decoration:none;">Controls and Procedures</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">98</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#REPORT_MANAGEMENT_ON_INTERNAL_CONTROL_OV"><font style="text-decoration:none;">Report of Management on Internal Control over Financial Reporting</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">98</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#REPORT_INDEPENDENT_REGISTERED_PUBLIC_ACC"><font style="text-decoration:none;">Report of Independent Registered Public Accounting Firm</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">99</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;9B.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_9B_OR_INFORMATION"><font style="text-decoration:none;">Other Information</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan="3" valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:18.18%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">PART&#160;III</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;10.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_10_DIRECTORS_EXECUTIVE_FICERS_CORPO"><font style="text-decoration:none;">Directors, Executive Officers and Corporate Governance</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;11.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_11_EXECUTIVE_COMPENSATION"><font style="text-decoration:none;">Executive Compensation</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;12.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_12_SECURITY_OWNERSHIP_CERTAIN_BENEF"><font style="text-decoration:none;">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;13.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_13_CERTAIN_RELATIONSHIPS_RELATED_TR"><font style="text-decoration:none;">Certain Relationships and Related Transactions, and Director Independence</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;14.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_14_PRINCIPAL_ACCOUNTING_FEES_SERVIC"><font style="text-decoration:none;">Principal Accounting Fees and Services</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan="3" valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:18.18%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">PART&#160;IV</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item&#160;15.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_15_EXHIBITS_FINANCIAL_STATEMENT_SCH"><font style="text-decoration:none;">Exhibits, Financial Statement Schedules</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:4pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:10.6%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:77.04%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td colspan="3" valign="middle"  style="padding-Right:0pt;padding-Top:0pt;width:4.78%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:7.5pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item 16.</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:7.5pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#ITEM_16_FORM_10K_SUMMARY"><font style="text-decoration:none;">Form 10-K Summary</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">105</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:7.58%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.34%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:7.5pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:10.26%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:7.5pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Right:0pt;padding-Top:0pt;width:76.12%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a href="#SIGNATURES"><font style="text-decoration:none;">Signatures</font></a></p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:1.32%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:3.26%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">106</p></td>
+<td valign="bottom"  style="padding-Right:0pt;padding-Top:0pt;width:0.2%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">2</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">PART I</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item 1</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">Note About Forward-Looking Statements </font></p>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995, Section&#160;27A of the Securities Act of 1933, and Section&#160;21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the following sections: &#8220;Business&#8221; (Part I, Item&#160;1 of this Form 10-K), &#8220;Risk Factors&#8221; (Part I, Item&#160;1A of this Form 10-K), and &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; (Part II, Item&#160;7 of this Form 10-K). These forward-looking statements generally are identified by the words &#8220;believe,&#8221; &#8220;project,&#8221; &#8220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;estimate,&#8221; &#8220;intend,&#8221; &#8220;strategy,&#8221; &#8220;future,&#8221; &#8220;opportunity,&#8221; &#8220;plan,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;will,&#8221; &#8220;would,&#8221; &#8220;will be,&#8221; &#8220;will continue,&#8221; &#8220;will likely result,&#8221; and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in &#8220;Risk Factors,&#8221; &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations,&#8221; and &#8220;Quantitative and Qualitative Disclosures about Market Risk&#8221; (Part II, Item&#160;7A of this Form 10-K). Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise. </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:13pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><a name="PART_I"></a><a name="PART_I"></a>PART I </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:9pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><a name="ITEM_1_BUSINESS"></a><a name="ITEM_1_BUSINESS"></a>ITEM&#160;1. BUSINESS </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:9pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">GENERAL </font></p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">Embracing Our Future</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. They also support new startups, improve educational and health outcomes, and empower human ingenuity.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We continue to transform our business to lead in the new era of the intelligent cloud and intelligent edge. We bring technology and products together into experiences and solutions that unlock value for our customers. In this next phase of innovation, computing is more powerful and ubiquitous from the cloud to the edge. Artificial intelligence (&#8220;AI&#8221;) capabilities are rapidly advancing, fueled by data and knowledge of the world. Physical and virtual worlds are coming together to create richer experiences that understand the context surrounding people, the things they use, the places they go, and their activities and relationships. A person&#8217;s experience with technology spans a multitude of devices and has become increasingly more natural and multi-sensory with voice, ink, and gaze interactions. </p>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">What We Offer</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Founded in 1975, we develop and support software, services, devices, and solutions that deliver new value for customers and help people and businesses realize their full potential. </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our products include operating systems; cross-device productivity applications; server applications; business solution applications; desktop and server management tools; software development tools; and video games. We also design, manufacture, and sell devices, including PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We offer an array of services, including cloud-based solutions that provide customers with software, services, platforms, and content, and we provide solution support and consulting services. We also deliver relevant online advertising to a global audience. </p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">PART I</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item 1</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">The </font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">A</font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">mbitions </font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">T</font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">hat </font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">D</font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">rive </font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">U</font><font style="font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">s</font></p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">To achieve our vision, our research and development efforts focus on three interconnected ambitions: </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Reinvent productivity and business processes. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Build the intelligent cloud platform.</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Create more personal computing.</p></td></tr></table></div>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Reinvent Productivity and Business Processes </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We are in a unique position to empower people and organizations to succeed in a rapidly evolving workplace. Computing experiences are evolving, no longer bound to one device at a time. Instead, experiences are expanding to many devices as people move from home to work to on the go. These modern needs, habits, and expectations of our customers are motivating us to bring Microsoft Office 365, Windows platform, devices, including Microsoft Surface, and third-party applications into a more cohesive Microsoft 365 experience.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our growth depends on securely delivering continuous innovation and advancing our leading productivity and collaboration tools and services, including Office, Microsoft Dynamics, and LinkedIn. Microsoft 365 brings together Office 365, Windows 10, and Enterprise Mobility + Security to help organizations empower their employees with AI-backed tools that unlock creativity, increase teamwork, and fuel innovation, all the while enabling compliance coverage and data protection. Microsoft Teams is core to our vision for the modern workplace as the digital hub that creates a single canvas for teamwork, conversations, meetings, and content. Microsoft Relationship Sales solution brings together LinkedIn Sales Navigator and Dynamics to transform business to business sales through social selling. Dynamics 365 for Talent with LinkedIn Recruiter and Learning gives human resource professionals a complete solution to compete for talent. </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">These scenarios represent a move to unlock creativity and inspire teamwork, while simplifying security and management. Organizations of all sizes can now digitize business-critical functions, redefining what customers can expect from their business applications. This creates an opportunity for us to reach new customers and increase usage and engagement with existing customers.</p>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Build the Intelligent Cloud Platform </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Companies are looking to use digital technology to fundamentally reimagine how they empower their employees, engage customers, optimize their operations, and change the very core of their products and services. Partnering with organizations on their digital transformation is one of our largest opportunities and we are uniquely positioned to become the strategic digital transformation platform and partner of choice.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our strategy requires continued investment in datacenters and other infrastructure to support our services. Microsoft Azure is a trusted cloud with comprehensive compliance coverage and AI-based security built in.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our cloud business benefits from three economies of scale: datacenters that deploy computational resources at significantly lower cost per unit than smaller ones; datacenters that coordinate and aggregate diverse customer, geographic, and application demand patterns, improving the utilization of computing, storage, and network resources; and multi-tenancy locations that lower application maintenance labor costs.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">As one of the two largest providers of cloud computing at scale, we believe we work from a position of strength. Being a global, hyper-scale cloud, Azure uniquely offers hybrid consistency, developer productivity, AI capabilities, and trusted security and compliance. Moreover, with Azure Stack, organizations can extend Azure into their own datacenters to create a consistent stack across the public cloud and the intelligent edge. Our hybrid infrastructure consistency spans identity, data, compute, management, and security, helping to support the real-world needs and evolving regulatory requirements of commercial customers and enterprises. </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The ability to convert data into AI drives our competitive advantage. Azure SQL Database makes it possible for customers to take Microsoft SQL Server from their on-premises datacenter to a fully managed instance in the cloud to utilize built-in AI. We are accelerating adoption of AI innovations from research to products. Our innovation helps every developer be an AI developer, with approachable new tools from Azure Machine Learning Studio for creating simple machine learning models, to the powerful Azure Machine Learning Workbench for the most advanced AI modeling and data science. </p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">4</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">PART I</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item 1</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">On June 4, 2018, Microsoft announced plans to acquire GitHub,</font><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> Inc.,</font><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> a service that millions of developers around the world rely on to write code together. The </font><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">acquisition</font><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> is expected to close by the end of the calendar year.</font></p>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Create More Personal Computing</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We strive to make computing more personal by putting users at the core of the experience, enabling them to interact with technology in more intuitive, engaging, and dynamic ways. Windows&#160;10 is the cornerstone of our ambition, providing a foundation for the secure, modern workplace, and designed to foster innovation through rich and consistent experiences across the range of existing devices and entirely new device categories. Windows 10 empowers people with AI-first interfaces ranging from voice-activated commands through Cortana, inking, immersive 3D content storytelling, and mixed reality experiences. Cloud sharing and co-authoring experiences are now natively enabled with OneDrive files on demand. Windows 10 is more accessible for everyone with new features like Eye Control, which gives people the ability to operate a PC using just their eyes.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our ambition for Windows 10 is to broaden our economic opportunity through three key levers: an original equipment manufacturer (&#8220;OEM&#8221;) ecosystem that creates exciting new hardware designs for Windows 10; our commitment to our first-party premium device portfolio; and monetization opportunities such as gaming, services, subscriptions, and search advertising.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We are working to create a broad developer opportunity by unifying the Windows installed base on Windows 10 and enabling universal Windows applications to run across devices so developers and OEMs can contribute to a thriving Windows ecosystem. Additionally, we are committed to designing and marketing first-party devices, such as the Surface Laptop, Surface Book 2, and Surface Pro to help drive innovation, create new device categories, and stimulate demand in the Windows ecosystem.</p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We are mobilizing to pursue our expansive opportunity in the gaming industry, broadening our approach to how we think about gaming end-to-end, from the way games are created and distributed to how they are played and viewed. We have a strong position with our Xbox One console, our large and growing highly engaged community of gamers on Xbox Live, and with Windows 10, the most popular operating system for PC gamers. And we will continue to connect our gaming assets across PC, console, and mobile, and work to grow and engage the Xbox Live member network more deeply and frequently with new services like Mixer and Xbox Game Pass. Our approach is to enable gamers to play the games they want, with the people they want, on the devices they want. </p>
+<p style="text-align:justify;margin-top:13pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Our Future Opportunity </p>
+<p style="text-align:justify;margin-top:9pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Customers are looking to us to accelerate their own digital transformations and to unlock new opportunity in this era of intelligent cloud and intelligent edge. We continue to develop complete, intelligent solutions for our customers that empower users to be creative and work together while safeguarding businesses and simplifying IT management. Our goal is to lead the industry in several distinct areas of technology over the long-term, which we expect will translate to sustained growth. We are investing significant resources in: </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Transforming the workplace to deliver new modern, modular business applications to improve how people communicate, collaborate, learn, work, play, and interact with one another. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="text-align:justify;margin-top:4pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Building and running cloud-based services in ways that unleash new experiences and opportunities for businesses and individuals.</p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Press releases on quarterly earnings, product and service announcements, legal developments, and international news. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Corporate governance information including our articles of incorporation, bylaws, governance guidelines, committee charters, codes of conduct and ethics, global corporate social responsibility initiatives, and other governance-related policies. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Other news and announcements that we may post from time to time that investors might find useful or interesting. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">Opportunities to sign up for email alerts to have information pushed in real time. </p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The information found on our website is not part of this or any other report we file with, or furnish to, the SEC. In addition to these channels, we use social media to communicate to the public. It is possible that the information we post on social media could be deemed to be material to investors. We encourage investors, the media, and others interested in Microsoft to review the information we post on the social media channels listed on our Investor Relations website. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0%;font-size:13.5pt;">&nbsp;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:8pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">16</a></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="text-decoration:underline;">PART I</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:7.5pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Item 1A</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:9pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><a name="ITEM_1A_RISK_FACTORS"></a><font style="font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;"><a name="ITEM_1A_RISK_FACTORS"></a>ITEM&#160;1A.&#160;RIS</font><font style="font-weight:bold;font-size:12pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">K FACTORS </font></p>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock. </p>
+<p style="margin-bottom:0pt;margin-top:13pt;text-align:justify;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Arial;font-style:normal;text-transform:none;font-variant: normal;">We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins. </p>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Competition in the technology sector </p>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources. Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services. Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.</p>
+<p style="margin-bottom:0pt;margin-top:13pt;text-align:justify;text-indent:0%;font-weight:bold;font-style:italic;font-size:10pt;font-family:Arial;text-transform:none;font-variant: normal;">Competition among platform-based ecosystems </p>
+<p style="margin-bottom:0pt;margin-top:9pt;text-align:justify;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth. Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins. We face significant competition from firms that provide competing platforms. </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:5.9%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:3.54%;white-space:nowrap">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8226;</font></p></td>
+<td valign="top">
+<p style="margin-bottom:0pt;margin-top:4pt;text-align:justify;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Arial;font-size:10pt;">A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables. Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces. They may also be able to claim security and performance benefits from their vertically integrated offer. We also offer some vertically-integrated hardware and software products and services. To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins. </p></td></tr></table></div>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+
+
